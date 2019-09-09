@@ -1,0 +1,3 @@
+innerclass
+MAIN
+innerclass$inside

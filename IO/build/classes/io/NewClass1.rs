@@ -1,0 +1,2 @@
+NewClass1
+s
